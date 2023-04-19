@@ -1,0 +1,4 @@
+sample,single_end,fastq_1,fastq_2,strandedness
+WTG0R1D3_T1,0,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R1D3_R1_001.fastq.gz,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R1D3_R2_001.fastq.gz,auto
+WTG0R3D3_T1,0,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R3D3_R1_001.fastq.gz,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R3D3_R2_001.fastq.gz,auto
+WTG0R4D3_T1,0,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R4D3_R1_001.fastq.gz,/gpfs/projects/CollierGroup/mariana/genewiz/30-456235246/00_fastq/WTG0R4D3_R2_001.fastq.gz,auto
