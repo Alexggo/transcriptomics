@@ -1,0 +1,2 @@
+id,variable,reference,target,blocking
+cont1,condition,WT,X32,media;day;MB;replicate

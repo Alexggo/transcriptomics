@@ -1,0 +1,21 @@
+CUSTOM_DUMPSOFTWAREVERSIONS:
+  python: 3.11.0
+  yaml: '6.0'
+DESEQ2_DIFFERENTIAL:
+  bioconductor-deseq2: 1.34.0
+  r-base: 4.1.3
+GTF_TO_TABLE:
+  atlas-gene-annotation-manipulation: 1.1.0
+  r-base: 4.1.1
+PLOT_DIFFERENTIAL:
+  r-base: 4.2.3
+  r-shinyngs: 1.7.1
+PLOT_EXPLORATORY:
+  r-base: 4.2.3
+  r-shinyngs: 1.7.1
+VALIDATOR:
+  r-base: 4.2.3
+  r-shinyngs: 1.7.1
+Workflow:
+  Nextflow: 23.04.1
+  nf-core/differentialabundance: 1.2.0

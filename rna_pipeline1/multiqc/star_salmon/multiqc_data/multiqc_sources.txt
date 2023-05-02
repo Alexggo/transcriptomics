@@ -1,0 +1,721 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT701R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32701R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32701R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R4D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R4D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R4D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R3D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R3D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32701R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R3D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT701R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R1D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R1D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R3D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R4D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R1D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/3270R1D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R3D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R3D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT70R1D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WTG0R4D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT7005R4D3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/32G0R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/picard/markduplicates/WT701R1D4.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R1D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R4D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R1D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R4D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R3D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R3D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R1D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R4D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R1D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R1D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R3D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R4D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R3D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R1D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R4D4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R3D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R4D3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R3D3/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R1D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R4D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R1D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R4D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R3D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R3D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R1D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32701R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R4D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R1D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R1D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R3D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WTG0R4D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R3D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT701R1D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT70R4D4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/WT7005R3D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/3270R4D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/qualimap/32G0R3D3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT701R1D4.read_distribution.txt
+RSeQC	read_distribution	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R1D3.read_distribution.txt
+RSeQC	read_distribution	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R1D4.read_distribution.txt
+RSeQC	read_distribution	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R3D4.read_distribution.txt
+RSeQC	read_distribution	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R4D3.read_distribution.txt
+RSeQC	read_distribution	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R1D4.read_distribution.txt
+RSeQC	read_distribution	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R1D3.read_distribution.txt
+RSeQC	read_distribution	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R3D3.read_distribution.txt
+RSeQC	read_distribution	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R1D3.read_distribution.txt
+RSeQC	read_distribution	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT701R3D4.read_distribution.txt
+RSeQC	read_distribution	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R3D4.read_distribution.txt
+RSeQC	read_distribution	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R4D3.read_distribution.txt
+RSeQC	read_distribution	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32701R1D4.read_distribution.txt
+RSeQC	read_distribution	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32701R3D4.read_distribution.txt
+RSeQC	read_distribution	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R4D4.read_distribution.txt
+RSeQC	read_distribution	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R4D3.read_distribution.txt
+RSeQC	read_distribution	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT701R4D4.read_distribution.txt
+RSeQC	read_distribution	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R3D3.read_distribution.txt
+RSeQC	read_distribution	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R3D4.read_distribution.txt
+RSeQC	read_distribution	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R4D3.read_distribution.txt
+RSeQC	read_distribution	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R1D4.read_distribution.txt
+RSeQC	read_distribution	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R4D3.read_distribution.txt
+RSeQC	read_distribution	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R1D3.read_distribution.txt
+RSeQC	read_distribution	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R4D4.read_distribution.txt
+RSeQC	read_distribution	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R3D3.read_distribution.txt
+RSeQC	read_distribution	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R3D4.read_distribution.txt
+RSeQC	read_distribution	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R1D3.read_distribution.txt
+RSeQC	read_distribution	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R3D3.read_distribution.txt
+RSeQC	read_distribution	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32701R4D4.read_distribution.txt
+RSeQC	read_distribution	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R4D4.read_distribution.txt
+RSeQC	read_distribution	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R1D4.read_distribution.txt
+RSeQC	read_distribution	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/3270R1D4.read_distribution.txt
+RSeQC	read_distribution	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT70R3D4.read_distribution.txt
+RSeQC	read_distribution	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WTG0R4D4.read_distribution.txt
+RSeQC	read_distribution	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/WT7005R4D4.read_distribution.txt
+RSeQC	read_distribution	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_distribution/32G0R3D3.read_distribution.txt
+RSeQC	inner_distance	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R4D3.inner_distance_freq.txt
+RSeQC	inner_distance	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R3D3.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R1D3.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R4D3.inner_distance_freq.txt
+RSeQC	inner_distance	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R3D3.inner_distance_freq.txt
+RSeQC	inner_distance	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R1D3.inner_distance_freq.txt
+RSeQC	inner_distance	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32701R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R3D3.inner_distance_freq.txt
+RSeQC	inner_distance	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R4D3.inner_distance_freq.txt
+RSeQC	inner_distance	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32701R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32701R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT701R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R1D3.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R4D3.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R3D3.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R1D3.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R1D3.inner_distance_freq.txt
+RSeQC	inner_distance	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT7005R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT701R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R4D4.inner_distance_freq.txt
+RSeQC	inner_distance	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/3270R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT701R1D4.inner_distance_freq.txt
+RSeQC	inner_distance	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WT70R4D3.inner_distance_freq.txt
+RSeQC	inner_distance	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/WTG0R3D4.inner_distance_freq.txt
+RSeQC	inner_distance	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R3D3.inner_distance_freq.txt
+RSeQC	inner_distance	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/inner_distance/32G0R4D4.inner_distance_freq.txt
+RSeQC	read_duplication	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R3D4.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R1D3.pos.DupRate.xls
+RSeQC	read_duplication	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32701R4D4.pos.DupRate.xls
+RSeQC	read_duplication	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R3D3.pos.DupRate.xls
+RSeQC	read_duplication	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R3D4.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R1D3.pos.DupRate.xls
+RSeQC	read_duplication	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R3D3.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R3D4.pos.DupRate.xls
+RSeQC	read_duplication	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32701R1D4.pos.DupRate.xls
+RSeQC	read_duplication	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R1D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R4D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R3D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R4D3.pos.DupRate.xls
+RSeQC	read_duplication	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R1D3.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R4D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R1D3.pos.DupRate.xls
+RSeQC	read_duplication	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R1D4.pos.DupRate.xls
+RSeQC	read_duplication	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT701R1D4.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R3D3.pos.DupRate.xls
+RSeQC	read_duplication	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT701R4D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R3D3.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R4D3.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R1D4.pos.DupRate.xls
+RSeQC	read_duplication	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/3270R1D4.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R3D4.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R4D4.pos.DupRate.xls
+RSeQC	read_duplication	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT701R3D4.pos.DupRate.xls
+RSeQC	read_duplication	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R4D4.pos.DupRate.xls
+RSeQC	read_duplication	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R4D4.pos.DupRate.xls
+RSeQC	read_duplication	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT7005R4D3.pos.DupRate.xls
+RSeQC	read_duplication	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R1D3.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R1D4.pos.DupRate.xls
+RSeQC	read_duplication	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WT70R4D3.pos.DupRate.xls
+RSeQC	read_duplication	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32701R3D4.pos.DupRate.xls
+RSeQC	read_duplication	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/32G0R4D3.pos.DupRate.xls
+RSeQC	read_duplication	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/read_duplication/WTG0R3D3.pos.DupRate.xls
+RSeQC	junction_annotation	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R4D4.junction_annotation.log
+RSeQC	junction_annotation	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R1D3.junction_annotation.log
+RSeQC	junction_annotation	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R1D3.junction_annotation.log
+RSeQC	junction_annotation	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT701R4D4.junction_annotation.log
+RSeQC	junction_annotation	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R3D3.junction_annotation.log
+RSeQC	junction_annotation	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R3D3.junction_annotation.log
+RSeQC	junction_annotation	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R3D3.junction_annotation.log
+RSeQC	junction_annotation	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R3D4.junction_annotation.log
+RSeQC	junction_annotation	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R4D3.junction_annotation.log
+RSeQC	junction_annotation	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32701R3D4.junction_annotation.log
+RSeQC	junction_annotation	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R4D3.junction_annotation.log
+RSeQC	junction_annotation	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R1D3.junction_annotation.log
+RSeQC	junction_annotation	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R3D4.junction_annotation.log
+RSeQC	junction_annotation	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R1D4.junction_annotation.log
+RSeQC	junction_annotation	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32701R1D4.junction_annotation.log
+RSeQC	junction_annotation	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R3D3.junction_annotation.log
+RSeQC	junction_annotation	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R3D4.junction_annotation.log
+RSeQC	junction_annotation	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R4D4.junction_annotation.log
+RSeQC	junction_annotation	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R1D4.junction_annotation.log
+RSeQC	junction_annotation	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R4D4.junction_annotation.log
+RSeQC	junction_annotation	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R3D4.junction_annotation.log
+RSeQC	junction_annotation	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R1D4.junction_annotation.log
+RSeQC	junction_annotation	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT7005R4D4.junction_annotation.log
+RSeQC	junction_annotation	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R4D3.junction_annotation.log
+RSeQC	junction_annotation	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT701R1D4.junction_annotation.log
+RSeQC	junction_annotation	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32701R4D4.junction_annotation.log
+RSeQC	junction_annotation	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R3D4.junction_annotation.log
+RSeQC	junction_annotation	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R4D4.junction_annotation.log
+RSeQC	junction_annotation	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/32G0R4D3.junction_annotation.log
+RSeQC	junction_annotation	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R4D3.junction_annotation.log
+RSeQC	junction_annotation	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WTG0R3D3.junction_annotation.log
+RSeQC	junction_annotation	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R1D4.junction_annotation.log
+RSeQC	junction_annotation	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/3270R1D3.junction_annotation.log
+RSeQC	junction_annotation	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R1D4.junction_annotation.log
+RSeQC	junction_annotation	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT70R1D3.junction_annotation.log
+RSeQC	junction_annotation	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_annotation/WT701R3D4.junction_annotation.log
+RSeQC	junction_saturation	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R3D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R4D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R3D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R4D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R1D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R1D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R3D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R4D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32701R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT701R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R3D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WTG0R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R1D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT701R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R1D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32701R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R4D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32701R4D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/32G0R1D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT7005R1D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT70R4D3.junctionSaturation_plot.r
+RSeQC	junction_saturation	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/WT701R3D4.junctionSaturation_plot.r
+RSeQC	junction_saturation	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/junction_saturation/3270R3D3.junctionSaturation_plot.r
+RSeQC	infer_experiment	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R1D3.infer_experiment.txt
+RSeQC	infer_experiment	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32701R1D4.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R3D3.infer_experiment.txt
+RSeQC	infer_experiment	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R3D4.infer_experiment.txt
+RSeQC	infer_experiment	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R1D4.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R1D4.infer_experiment.txt
+RSeQC	infer_experiment	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R1D4.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R1D3.infer_experiment.txt
+RSeQC	infer_experiment	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R1D3.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R3D4.infer_experiment.txt
+RSeQC	infer_experiment	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R3D4.infer_experiment.txt
+RSeQC	infer_experiment	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT701R4D4.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R3D3.infer_experiment.txt
+RSeQC	infer_experiment	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R3D4.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R1D3.infer_experiment.txt
+RSeQC	infer_experiment	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R4D4.infer_experiment.txt
+RSeQC	infer_experiment	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R3D3.infer_experiment.txt
+RSeQC	infer_experiment	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT701R3D4.infer_experiment.txt
+RSeQC	infer_experiment	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R1D3.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R4D3.infer_experiment.txt
+RSeQC	infer_experiment	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32701R3D4.infer_experiment.txt
+RSeQC	infer_experiment	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R3D3.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R4D4.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R4D4.infer_experiment.txt
+RSeQC	infer_experiment	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT701R1D4.infer_experiment.txt
+RSeQC	infer_experiment	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT7005R4D3.infer_experiment.txt
+RSeQC	infer_experiment	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R4D4.infer_experiment.txt
+RSeQC	infer_experiment	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32701R4D4.infer_experiment.txt
+RSeQC	infer_experiment	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R4D3.infer_experiment.txt
+RSeQC	infer_experiment	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R4D4.infer_experiment.txt
+RSeQC	infer_experiment	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R1D4.infer_experiment.txt
+RSeQC	infer_experiment	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/3270R4D3.infer_experiment.txt
+RSeQC	infer_experiment	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/32G0R4D3.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R3D4.infer_experiment.txt
+RSeQC	infer_experiment	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WTG0R1D4.infer_experiment.txt
+RSeQC	infer_experiment	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/infer_experiment/WT70R3D3.infer_experiment.txt
+RSeQC	bam_stat	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R3D4.bam_stat.txt
+RSeQC	bam_stat	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R4D4.bam_stat.txt
+RSeQC	bam_stat	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R3D3.bam_stat.txt
+RSeQC	bam_stat	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R4D4.bam_stat.txt
+RSeQC	bam_stat	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT701R3D4.bam_stat.txt
+RSeQC	bam_stat	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R1D3.bam_stat.txt
+RSeQC	bam_stat	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R4D3.bam_stat.txt
+RSeQC	bam_stat	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R3D3.bam_stat.txt
+RSeQC	bam_stat	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R3D4.bam_stat.txt
+RSeQC	bam_stat	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R3D3.bam_stat.txt
+RSeQC	bam_stat	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32701R4D4.bam_stat.txt
+RSeQC	bam_stat	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R4D3.bam_stat.txt
+RSeQC	bam_stat	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R4D4.bam_stat.txt
+RSeQC	bam_stat	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R4D4.bam_stat.txt
+RSeQC	bam_stat	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R1D3.bam_stat.txt
+RSeQC	bam_stat	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R1D4.bam_stat.txt
+RSeQC	bam_stat	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R3D4.bam_stat.txt
+RSeQC	bam_stat	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R3D3.bam_stat.txt
+RSeQC	bam_stat	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R4D4.bam_stat.txt
+RSeQC	bam_stat	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT701R4D4.bam_stat.txt
+RSeQC	bam_stat	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R1D4.bam_stat.txt
+RSeQC	bam_stat	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R4D3.bam_stat.txt
+RSeQC	bam_stat	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R4D3.bam_stat.txt
+RSeQC	bam_stat	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R1D3.bam_stat.txt
+RSeQC	bam_stat	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R4D3.bam_stat.txt
+RSeQC	bam_stat	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R3D3.bam_stat.txt
+RSeQC	bam_stat	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT70R1D4.bam_stat.txt
+RSeQC	bam_stat	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT701R1D4.bam_stat.txt
+RSeQC	bam_stat	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32G0R1D4.bam_stat.txt
+RSeQC	bam_stat	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R3D4.bam_stat.txt
+RSeQC	bam_stat	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32701R1D4.bam_stat.txt
+RSeQC	bam_stat	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R3D4.bam_stat.txt
+RSeQC	bam_stat	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WTG0R1D3.bam_stat.txt
+RSeQC	bam_stat	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/WT7005R1D4.bam_stat.txt
+RSeQC	bam_stat	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/3270R1D3.bam_stat.txt
+RSeQC	bam_stat	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/rseqc/bam_stat/32701R3D4.bam_stat.txt
+Samtools	stats	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R4D4.markdup.sorted.bam.stats
+Samtools	stats	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R4D3.markdup.sorted.bam.stats
+Samtools	stats	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R4D3.markdup.sorted.bam.stats
+Samtools	stats	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R3D4.markdup.sorted.bam.stats
+Samtools	stats	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R1D3.markdup.sorted.bam.stats
+Samtools	stats	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R1D3.markdup.sorted.bam.stats
+Samtools	stats	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R1D3.markdup.sorted.bam.stats
+Samtools	stats	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R3D4.markdup.sorted.bam.stats
+Samtools	stats	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R4D4.markdup.sorted.bam.stats
+Samtools	stats	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R4D3.markdup.sorted.bam.stats
+Samtools	stats	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R1D3.markdup.sorted.bam.stats
+Samtools	stats	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R3D3.markdup.sorted.bam.stats
+Samtools	stats	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R3D3.markdup.sorted.bam.stats
+Samtools	stats	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R1D4.markdup.sorted.bam.stats
+Samtools	stats	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R3D3.markdup.sorted.bam.stats
+Samtools	stats	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R4D4.markdup.sorted.bam.stats
+Samtools	stats	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R1D4.markdup.sorted.bam.stats
+Samtools	stats	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32701R1D4.markdup.sorted.bam.stats
+Samtools	stats	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32701R4D4.markdup.sorted.bam.stats
+Samtools	stats	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT701R4D4.markdup.sorted.bam.stats
+Samtools	stats	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32701R3D4.markdup.sorted.bam.stats
+Samtools	stats	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R1D4.markdup.sorted.bam.stats
+Samtools	stats	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R3D4.markdup.sorted.bam.stats
+Samtools	stats	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT70R4D4.markdup.sorted.bam.stats
+Samtools	stats	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R4D4.markdup.sorted.bam.stats
+Samtools	stats	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R3D3.markdup.sorted.bam.stats
+Samtools	stats	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R1D3.markdup.sorted.bam.stats
+Samtools	stats	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R4D3.markdup.sorted.bam.stats
+Samtools	stats	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/32G0R3D3.markdup.sorted.bam.stats
+Samtools	stats	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R4D3.markdup.sorted.bam.stats
+Samtools	stats	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT7005R1D4.markdup.sorted.bam.stats
+Samtools	stats	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT701R1D4.markdup.sorted.bam.stats
+Samtools	stats	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R1D4.markdup.sorted.bam.stats
+Samtools	stats	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/3270R3D4.markdup.sorted.bam.stats
+Samtools	stats	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WT701R3D4.markdup.sorted.bam.stats
+Samtools	stats	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/stats/WTG0R3D4.markdup.sorted.bam.stats
+Samtools	flagstat	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R3D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R4D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R1D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R4D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32701R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R4D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R4D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT701R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R1D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R1D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R1D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R4D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R1D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32701R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT70R3D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT701R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R4D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WTG0R3D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32701R1D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT7005R3D3.markdup.sorted.bam.flagstat
+Samtools	flagstat	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/WT701R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/32G0R3D4.markdup.sorted.bam.flagstat
+Samtools	flagstat	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/flagstat/3270R3D3.markdup.sorted.bam.flagstat
+Samtools	idxstats	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R3D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R4D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R1D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R4D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R4D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R3D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R3D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT701R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32701R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R1D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R4D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R1D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32701R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT701R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WTG0R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R4D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32701R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT701R4D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R3D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/32G0R3D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT70R1D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R1D4.markdup.sorted.bam.idxstats
+Samtools	idxstats	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/3270R1D3.markdup.sorted.bam.idxstats
+Samtools	idxstats	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/samtools/idxstats/WT7005R3D3.markdup.sorted.bam.idxstats
+STAR	SummaryLog	3270R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R4D3.Log.final.out
+STAR	SummaryLog	WT70R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R1D4.Log.final.out
+STAR	SummaryLog	32701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32701R1D4.Log.final.out
+STAR	SummaryLog	3270R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R1D3.Log.final.out
+STAR	SummaryLog	WT7005R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R1D4.Log.final.out
+STAR	SummaryLog	3270R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R4D4.Log.final.out
+STAR	SummaryLog	32G0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R1D3.Log.final.out
+STAR	SummaryLog	WT701R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT701R1D4.Log.final.out
+STAR	SummaryLog	32G0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R1D4.Log.final.out
+STAR	SummaryLog	32G0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R3D3.Log.final.out
+STAR	SummaryLog	WT7005R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R3D4.Log.final.out
+STAR	SummaryLog	3270R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R3D4.Log.final.out
+STAR	SummaryLog	WT7005R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R4D4.Log.final.out
+STAR	SummaryLog	32G0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R3D4.Log.final.out
+STAR	SummaryLog	WTG0R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R1D3.Log.final.out
+STAR	SummaryLog	WTG0R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R3D3.Log.final.out
+STAR	SummaryLog	32701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32701R4D4.Log.final.out
+STAR	SummaryLog	WTG0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R4D3.Log.final.out
+STAR	SummaryLog	WTG0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R4D4.Log.final.out
+STAR	SummaryLog	WT701R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT701R4D4.Log.final.out
+STAR	SummaryLog	WT7005R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R3D3.Log.final.out
+STAR	SummaryLog	WT70R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R4D4.Log.final.out
+STAR	SummaryLog	WTG0R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R3D4.Log.final.out
+STAR	SummaryLog	WT701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT701R3D4.Log.final.out
+STAR	SummaryLog	3270R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R1D4.Log.final.out
+STAR	SummaryLog	WT70R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R4D3.Log.final.out
+STAR	SummaryLog	WT70R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R3D3.Log.final.out
+STAR	SummaryLog	3270R3D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/3270R3D3.Log.final.out
+STAR	SummaryLog	WTG0R1D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WTG0R1D4.Log.final.out
+STAR	SummaryLog	32G0R4D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R4D4.Log.final.out
+STAR	SummaryLog	WT7005R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R1D3.Log.final.out
+STAR	SummaryLog	32701R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32701R3D4.Log.final.out
+STAR	SummaryLog	WT7005R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT7005R4D3.Log.final.out
+STAR	SummaryLog	WT70R1D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R1D3.Log.final.out
+STAR	SummaryLog	WT70R3D4	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/WT70R3D4.Log.final.out
+STAR	SummaryLog	32G0R4D3	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/star/32G0R4D3.Log.final.out
+FastQC (raw)	all_sections	WT7005R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	32G0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	3270R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R3D3_2_fastqc.zip
+FastQC (raw)	all_sections	3270R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R3D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R1D3_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT70R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R1D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	3270R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT70R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R4D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT70R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R1D3_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	3270R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R3D3_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	3270R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R1D3_2_fastqc.zip
+FastQC (raw)	all_sections	32701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R4D3_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	32G0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R1D3_1_fastqc.zip
+FastQC (raw)	all_sections	3270R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R1D3_1_fastqc.zip
+FastQC (raw)	all_sections	32G0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R1D3_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R3D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R3D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	32701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R1D3_1_fastqc.zip
+FastQC (raw)	all_sections	3270R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R4D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT7005R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R4D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R3D3_1_fastqc.zip
+FastQC (raw)	all_sections	32G0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R4D3_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R4D3_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R4D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT7005R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	3270R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R4D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT7005R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R1D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	3270R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	32701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT7005R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	32G0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	3270R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT7005R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R3D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R3D3_2_fastqc.zip
+FastQC (raw)	all_sections	WT701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT70R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R4D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT70R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	WTG0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R3D4_2_fastqc.zip
+FastQC (raw)	all_sections	32701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R4D4_2_fastqc.zip
+FastQC (raw)	all_sections	WT701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT701R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R3D3_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	32701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R1D4_1_fastqc.zip
+FastQC (raw)	all_sections	32701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32701R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	WTG0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WTG0R4D3_1_fastqc.zip
+FastQC (raw)	all_sections	WT70R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT70R1D3_2_fastqc.zip
+FastQC (raw)	all_sections	3270R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R4D4_1_fastqc.zip
+FastQC (raw)	all_sections	WT7005R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/WT7005R3D3_1_fastqc.zip
+FastQC (raw)	all_sections	3270R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/3270R1D4_2_fastqc.zip
+FastQC (raw)	all_sections	32G0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/fastqc/32G0R3D3_1_fastqc.zip
+Cutadapt	all_sections	32701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R3D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R4D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R3D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R4D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R3D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R3D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R1D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R3D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R3D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R3D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R1D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R4D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R1D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R1D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R3D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R3D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R4D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R4D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R1D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R4D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R4D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R3D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R4D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R4D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R1D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R1D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R1D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R1D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R1D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32701R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R1D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R4D3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3270R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/3270R4D4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	32G0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/32G0R4D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WTG0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WTG0R3D4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT70R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT70R3D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT7005R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT7005R1D3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	WT701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/WT701R3D4_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	WT701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R4D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	3270R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R1D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R4D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R1D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R3D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R4D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R3D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R4D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32701R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R1D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R3D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R4D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R4D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R1D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R4D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R4D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R3D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R3D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32701R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT701R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	3270R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R3D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	3270R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R3D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R1D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R1D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	3270R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R1D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R1D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R3D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	3270R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R1D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	3270R4D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/3270R4D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R3D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R3D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	32701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32701R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R1D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R1D3_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R1D3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT701R1D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R1D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	32G0R4D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/32G0R4D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT7005R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT7005R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R4D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R4D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT701R3D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R3D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WT70R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT70R1D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R4D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R4D4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R3D4_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R3D4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WTG0R3D3_2	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WTG0R3D3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	WT701R1D4_1	/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/work/a4/cd343ff648de04cc72e2da285a2acf/trimgalore/fastqc/WT701R1D4_1_val_1_fastqc.zip

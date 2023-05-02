@@ -1,2 +1,11 @@
 work
 .nextflow
+Aurli1
+Aurli1_fastq
+rna_diffabn_exploratory
+rna_diffabn_blocking
+rna_diffabn_test
+rna_pipeline1/fastqc
+rna_pipeline1/genome
+rna_pipeline1/star_salmon
+rna_pipeline1/trimgalore

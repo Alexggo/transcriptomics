@@ -1,0 +1,6 @@
+id,variable,reference,target,blocking
+cont1,condition,WT,X32,media;day;MB;replicate
+cont2,MB,M0,M005,media;day;condition;replicate
+cont3,MB,M005,M01,media;day;condition;replicate
+cont4,media,BY,GPY,condition;day;MB;replicate
+cont5,day,D3,D4,condition;media;MB;replicate
