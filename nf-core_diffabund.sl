@@ -12,7 +12,7 @@
 
 export SINGULARITY_CACHEDIR=/gpfs/scratch/$USER/singularity
 export NXF_SINGULARITY_CACHEDIR=/gpfs/scratch/$USER/singularity
-type=blocking #conditions,blocking,exploratory
+type=allcont #blocking,exploratory,allcont
 input_csv=/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/samplesheet.csv
 output_dir=/gpfs/projects/RestGroup/agilgomez/projects/transcriptomics/rna_diffabn_${type}
 gtf=Aurli1/Aurli1_2023_ed2.gtf
